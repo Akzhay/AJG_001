@@ -1,0 +1,104 @@
+2024-07-02 17:58:15,505 - INFO - Successfully connected to database: example.db
+2024-07-02 17:58:16,528 - INFO - Successfully connected to database: example.db
+2024-07-02 17:58:16,539 - INFO - Table created successfully.
+2024-07-02 22:44:12,000 - INFO - Successfully connected to database: example.db
+2024-07-02 22:46:52,007 - INFO - Successfully connected to database: example.db
+2024-07-02 22:46:52,926 - INFO - Successfully connected to database: example.db
+2024-07-02 22:46:52,936 - INFO - Output saved to: Output\output.txt
+2024-07-02 22:46:52,937 - INFO - Database connection closed.
+2024-07-02 22:54:02,808 - INFO - Successfully connected to database: example.db
+2024-07-02 22:54:03,706 - INFO - Successfully connected to database: example.db
+2024-07-02 22:54:03,710 - INFO - Output saved to: Output\output.txt
+2024-07-02 22:54:03,711 - INFO - Database connection closed.
+2024-07-02 22:58:00,723 - INFO - Successfully connected to database: example.db
+2024-07-02 22:58:29,966 - INFO - Successfully connected to database: example.db
+2024-07-02 22:58:54,629 - INFO - Successfully connected to database: example.db
+2024-07-02 22:58:55,456 - INFO - Successfully connected to database: example.db
+2024-07-02 22:58:55,458 - INFO - Database connection closed.
+2024-07-02 22:59:33,085 - INFO - Successfully connected to database: example.db
+2024-07-02 22:59:33,985 - INFO - Successfully connected to database: example.db
+2024-07-02 22:59:33,988 - INFO - Output saved to: Output\output.txt
+2024-07-02 22:59:33,988 - INFO - Database connection closed.
+2024-07-02 23:19:24,533 - INFO - Successfully connected to database: example.db
+2024-07-02 23:21:15,155 - INFO - Successfully connected to database: example.db
+2024-07-02 23:21:32,922 - INFO - Successfully connected to database: example.db
+2024-07-02 23:21:43,574 - INFO - Successfully connected to database: example.db
+2024-07-02 23:21:44,539 - INFO - Successfully connected to database: example.db
+2024-07-02 23:21:45,368 - INFO - Output saved to: Output\output.txt
+2024-07-02 23:21:45,369 - INFO - Database connection closed.
+2024-07-02 23:41:06,859 - INFO - Successfully connected to database: example.db
+2024-07-02 23:41:07,796 - INFO - Successfully connected to database: example.db
+2024-07-02 23:41:08,456 - INFO - Output saved to: Output\output.txt
+2024-07-02 23:41:08,456 - INFO - Database connection closed.
+2024-07-03 08:25:53,335 - INFO - Successfully connected to database: example.db
+2024-07-03 08:25:54,858 - INFO - Successfully connected to database: example.db
+2024-07-03 08:25:54,860 - ERROR - Error executing SQL script: unrecognized token: "'SELECT a.CICLINT_CLIENT_NUM, a.CLIENT_NAME, a.CLIENT_EMAIL, a.ACCOUNT_BALANCE, a.JOIN_DATE,
+                        b.ADDRESS, b.PHONE_NUMBER
+                        FROM CICLINT_ADD a
+                        INNER JOIN CICLINT b
+                        ON a.CICLINT_CLIENT_NUM = b.CICLINT_CLIENT_NUM"
+2024-07-03 08:25:54,862 - INFO - Database connection closed.
+2024-07-03 08:30:11,031 - INFO - Successfully connected to database: example.db
+2024-07-03 08:30:12,011 - INFO - Successfully connected to database: example.db
+2024-07-03 08:30:12,016 - ERROR - Error executing SQL script: no such column: b.ADDRESS
+2024-07-03 08:30:12,016 - INFO - Database connection closed.
+2024-07-03 08:31:29,241 - INFO - Successfully connected to database: example.db
+2024-07-03 08:31:30,459 - INFO - Successfully connected to database: example.db
+2024-07-03 08:31:30,459 - ERROR - Error executing SQL script: near "FROM": syntax error
+2024-07-03 08:31:30,459 - INFO - Database connection closed.
+2024-07-03 08:32:00,289 - INFO - Successfully connected to database: example.db
+2024-07-03 08:32:01,302 - INFO - Successfully connected to database: example.db
+2024-07-03 08:32:02,115 - INFO - Database connection closed.
+2024-07-03 08:33:55,853 - INFO - Successfully connected to database: example.db
+2024-07-03 08:33:56,836 - INFO - Successfully connected to database: example.db
+2024-07-03 08:33:56,836 - ERROR - Error executing SQL script: RIGHT and FULL OUTER JOINs are not currently supported
+2024-07-03 08:33:56,836 - INFO - Database connection closed.
+2024-07-03 08:38:32,612 - INFO - Successfully connected to database: example.db
+2024-07-03 08:38:33,447 - INFO - Successfully connected to database: example.db
+2024-07-03 08:38:33,448 - ERROR - Error executing SQL script: no such column: b.ADDRESS
+2024-07-03 08:38:33,448 - INFO - Database connection closed.
+2024-07-03 08:39:03,165 - INFO - Successfully connected to database: example.db
+2024-07-03 08:39:04,293 - INFO - Successfully connected to database: example.db
+2024-07-03 08:39:04,294 - ERROR - Error executing SQL script: no such column: b.PHONE_NUMBER
+2024-07-03 08:39:04,294 - INFO - Database connection closed.
+2024-07-03 08:41:34,206 - INFO - Successfully connected to database: example.db
+2024-07-03 08:41:35,131 - INFO - Successfully connected to database: example.db
+2024-07-03 08:41:35,846 - INFO - Database connection closed.
+2024-07-03 08:44:05,319 - INFO - Successfully connected to database: example.db
+2024-07-03 08:44:06,211 - INFO - Successfully connected to database: example.db
+2024-07-03 08:44:09,524 - INFO - Output saved to: Output\output.txt
+2024-07-03 08:44:09,525 - INFO - Database connection closed.
+2024-07-03 08:47:11,083 - INFO - Successfully connected to database: example.db
+2024-07-03 08:47:12,401 - INFO - Successfully connected to database: example.db
+2024-07-03 08:47:13,236 - INFO - Database connection closed.
+2024-07-03 08:48:48,559 - INFO - Successfully connected to database: example.db
+2024-07-03 08:48:49,698 - INFO - Successfully connected to database: example.db
+2024-07-03 08:48:50,491 - INFO - Database connection closed.
+2024-07-03 17:48:37,543 - INFO - Successfully connected to database: example.db
+2024-07-03 17:48:50,764 - INFO - Successfully connected to database: example.db
+2024-07-03 17:49:00,851 - INFO - Output saved to: Output\output.txt
+2024-07-03 17:49:00,851 - INFO - Database connection closed.
+2024-07-03 17:49:00,858 - INFO - Successfully connected to database: example.db
+2024-07-03 17:49:00,954 - INFO - Database connection closed.
+2024-07-03 17:53:29,089 - INFO - Successfully connected to database: example.db
+2024-07-03 17:53:30,527 - INFO - Successfully connected to database: example.db
+2024-07-03 17:53:34,128 - INFO - Output saved to: Output\output.txt
+2024-07-03 17:53:34,129 - INFO - Database connection closed.
+2024-07-03 17:53:34,131 - INFO - Successfully connected to database: example.db
+2024-07-03 17:53:34,159 - INFO - Database connection closed.
+2024-07-04 10:01:57,351 - INFO - Successfully connected to database: example.db
+2024-07-04 10:01:57,629 - INFO - Successfully connected to database: example.db
+2024-07-07 14:50:44,026 - INFO - Successfully connected to database: example.db
+2024-07-07 14:50:45,364 - INFO - Successfully connected to database: example.db
+2024-07-07 14:51:13,824 - INFO - Successfully connected to database: example.db
+2024-07-07 14:51:15,117 - INFO - Successfully connected to database: example.db
+2024-07-07 14:51:19,322 - INFO - Output saved to: Output\output.txt
+2024-07-07 14:51:19,322 - INFO - Database connection closed.
+2024-07-07 14:51:19,326 - INFO - Successfully connected to database: example.db
+2024-07-07 14:51:19,373 - INFO - Database connection closed.
+2024-07-09 22:03:30,518 - INFO - Successfully connected to database: example.db
+2024-07-09 22:06:25,233 - INFO - Successfully connected to database: example.db
+2024-07-09 23:52:30,706 - INFO - Successfully connected to database: example.db
+2024-07-09 23:53:44,967 - INFO - Successfully connected to database: example.db
+2024-07-11 11:03:42,200 - INFO - Successfully connected to database: example.db
+2024-07-11 11:06:10,129 - INFO - Successfully connected to database: example.db
